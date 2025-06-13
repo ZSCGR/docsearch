@@ -1,6 +1,10 @@
 {
   "index_name": "alist",
   "start_urls": ["https://alist-docs.chgr.cc/"],
+  "sitemap_urls": [
+    "https://didilinkin.cn/sitemap.xml"
+  ],
+  "sitemap_alternate_links": true,
   "selectors": {
     "lvl0": ".content h1",
     "lvl1": ".content h2",
