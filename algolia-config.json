@@ -1,6 +1,6 @@
 {
   "index_name": "alist",
-  "start_urls": ["https://alist-docs.chgr.cc/"],
+  "start_urls": ["https://blog.chgr.cc/"],
   "sitemap_urls": [
     "https://blog.chgr.cc/sitemap.xml"
   ],
